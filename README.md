@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lascuevas.pro/github/banner" alt="CuevasTech Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 255, 255, 0.3);" />
+  <img src="https://lascuevas.pro/github/banner.png" alt="CuevasTech Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 255, 255, 0.3);" />
 
   <br><br>
 

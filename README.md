@@ -37,21 +37,21 @@ Aquí es donde paso la mayor parte de mi tiempo. No busco la solución más fác
 Me adapto a lo que el proyecto requiera.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/App_Stack-FF00FF?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/API_Dev-00FFFF?style=for-the-badge&logo=fastapi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloud-FF00FF?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/App_Stack-FF00FF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/API_Dev-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud-FF00FF?style=for-the-badge&logoColor=black" />
   
   <br>
 
-  <img src="https://img.shields.io/badge/AI_Agents-FF00FF?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/ML_Workflow-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Frameworks-FF00FF?style=for-the-badge&logo=langchain&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI_Agents-FF00FF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/ML_Workflow-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Frameworks-FF00FF?style=for-the-badge&logoColor=black" />
 
   <br>
 
-  <img src="https://img.shields.io/badge/Hardware-FF00FF?style=for-the-badge&logo=esp32&logoColor=black" />
-  <img src="https://img.shields.io/badge/Smart_Home-00FFFF?style=for-the-badge&logo=homeassistant&logoColor=black" />
-  <img src="https://img.shields.io/badge/Maker-FF00FF?style=for-the-badge&logo=arduino&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hardware-FF00FF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Smart_Home-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Maker-FF00FF?style=for-the-badge&logoColor=black" />
 </div>
 
 <br>
@@ -67,6 +67,6 @@ Me adapto a lo que el proyecto requiera.
 
 <div align="center">
   <a href="mailto:cuevastech00@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-FF00FF?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Contact-FF00FF?style=for-the-badge&logo=mail.ru&logoColor=black" />
   </a>
 </div>

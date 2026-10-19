@@ -1,72 +1,43 @@
-<div align="center">
-  <img src="https://lascuevas.pro/github/banner.png" alt="CuevasTech Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 255, 255, 0.3);" />
+**English** · [Español](https://github.com/CuevasTech/CuevasTech/blob/main/README.es.md)
 
-  <br><br>
+[![CuevasTech Banner](https://raw.githubusercontent.com/CuevasTech/CuevasTech/main/assets/banner.png)](https://github.com/CuevasTech)
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=>_++Apps+•+AI+Agents+•+Smart+Home+•+DIY;>_++%C2%BFEs+repetitivo%3F+Automatízalo;>_++%C2%BFNo+existe+el+hardware%3F+Fabrícalo;>_++%C2%BFEs+un+dispositivo+tonto%3F+Intégrale+una+IA" alt="Typing SVG" />
-  </a>
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E_++Apps+%E2%80%A2+AI+Agents+%E2%80%A2+Smart+Home+%E2%80%A2+DIY;%3E_++Is+it+repetitive%3F+Automate+it;%3E_++Doesn%27t+the+hardware+exist%3F+Build+it;%3E_++Is+it+a+dumb+device%3F+Give+it+an+AI)
 
 ---
 
+I don't like being boxed in. I'm a multidisciplinary maker focused on **programming**, **tinkering** and **automation** with Artificial Intelligence. My lab is controlled chaos: mobile apps talk to local servers that, in turn, run AI agents to control hardware modified by hand.
 
+> *I chase relentless efficiency: if I spot a manual process, my first reaction is to automate it. If the hardware I need doesn't exist, I design and build it from scratch. And if a device is static, I give it AI agents so it has autonomy and purpose.*
 
-No me gusta encasillarme. Soy un creador multidisciplinar centrado en la **programación**, el **cacharreo** y la **automatización** con Inteligencia Artificial. Mi laboratorio es un caos controlado donde las aplicaciones móviles se comunican con servidores locales que, a su vez, gestionan agentes de IA para controlar hardware modificado a mano. 
+## 🔬 Research & development pillars
 
-<br>
+This is where I spend most of my time. I don't look for the easiest solution, I look for the most elegant and fun one.
 
-> *Persigo la eficiencia implacable: Si detecto un proceso manual, mi primera reacción es programar su automatización. Si el hardware necesario no existe en el mercado, lo diseño y fabrico desde cero. Y si un dispositivo es estático, le aplico agentes de IA para dotarlo de autonomía y propósito.*
+| Category                   | My approach                                                                          |
+| -------------------------- | ------------------------------------------------------------------------------------ |
+| **📱 App Development**      | I build robust interfaces and logic. I love connecting apps to the real world        |
+| **🤖 AI & AI Agents**       | I don't just use LLMs; I build autonomous agents that "understand" and act on their environment |
+| **🏠 Smart Home**           | I take the smart home to the next level. Total integration with AI                   |
 
-<br>
+## 🚀 Featured projects
 
-## 🔬 Pilares de investigación y desarrollo
+- **[Folio PDF](https://github.com/CuevasTech/folio)**: a free, open-source PDF editor for Windows. Fill in, sign, edit, organize, OCR and optional local AI. No ads, no accounts, nothing uploaded. [⬇ Download](https://github.com/CuevasTech/folio/releases/latest)
+- **[NeonFin](https://github.com/CuevasTech/NeonFin)**: a neon & glass theme for Jellyfin 12. Cinematic detail pages, a glass top bar that shrinks on scroll and calm hover effects. Pure CSS, one line to install.
 
-Aquí es donde paso la mayor parte de mi tiempo. No busco la solución más fácil, busco la más elegante y divertida.
+## ⚡ My current toolbox
 
-| Categoría | Mi Enfoque |
-| :--- | :--- |
-| **📱 App Development** | Creo interfaces y lógicas robustas. Me mola conectar las apps al mundo real |
-| **🤖 AI & AI Agents** | No solo uso LLMs; construyo agentes autónomos que "entienden" y actúan en su entorno |
-| **🏠 Domótica Inteligente** | Llevo la smart home al siguiente nivel. Integración total con IA |
+I adapt to whatever the project needs.
 
-<br>
+![Python](https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black) ![Electron](https://img.shields.io/badge/Electron-FF00FF?style=for-the-badge&logo=electron&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-00FFFF?style=for-the-badge&logoColor=black)  
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF00FF?style=for-the-badge&logoColor=black) ![Smart Home](https://img.shields.io/badge/Smart_Home-00FFFF?style=for-the-badge&logoColor=black) ![Hardware](https://img.shields.io/badge/Hardware-FF00FF?style=for-the-badge&logoColor=black)
 
-## ⚡ Mi Stack de herramientas actual
+## ☕ Support my work
 
-Me adapto a lo que el proyecto requiera.
+My projects are free and will stay that way. If any of them is useful to you, you can buy me a coffee on GitHub Sponsors. A ⭐ on a repo helps too.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/App_Stack-FF00FF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/API_Dev-00FFFF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloud-FF00FF?style=for-the-badge&logoColor=black" />
-  
-  <br>
+[![Sponsor CuevasTech on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-%E2%99%A5-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/CuevasTech)
 
-  <img src="https://img.shields.io/badge/AI_Agents-FF00FF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/ML_Workflow-00FFFF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Frameworks-FF00FF?style=for-the-badge&logoColor=black" />
+## 📫 Contact
 
-  <br>
-
-  <img src="https://img.shields.io/badge/Hardware-FF00FF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Smart_Home-00FFFF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Maker-FF00FF?style=for-the-badge&logoColor=black" />
-</div>
-
-<br>
-
-## 📊 Mis Stats de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CuevasTech&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=ffffff" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuevasTech&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=ffffff" alt="Top Langs" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="mailto:cuevastech00@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-FF00FF?style=for-the-badge&logo=mail.ru&logoColor=black" />
-  </a>
-</div>
+[![Contact](https://img.shields.io/badge/Contact-FF00FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:cuevastech00@gmail.com)

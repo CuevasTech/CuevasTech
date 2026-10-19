@@ -1,6 +1,6 @@
 [English](https://github.com/CuevasTech/CuevasTech/blob/main/README.md) · **Español**
 
-[![CuevasTech Banner](https://raw.githubusercontent.com/CuevasTech/CuevasTech/main/assets/banner.png)](https://github.com/CuevasTech)
+[![CuevasTech Banner](https://raw.githubusercontent.com/CuevasTech/CuevasTech/main/assets/CuevasTech-Banner.png)](https://github.com/CuevasTech)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E_++Apps+%E2%80%A2+AI+Agents+%E2%80%A2+Smart+Home+%E2%80%A2+DIY;%3E_++%C2%BFEs+repetitivo%3F+Automat%C3%ADzalo;%3E_++%C2%BFNo+existe+el+hardware%3F+Fabr%C3%ADcalo;%3E_++%C2%BFEs+un+dispositivo+tonto%3F+Int%C3%A9grale+una+IA)
 

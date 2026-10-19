@@ -1,8 +1,12 @@
+<div align="center">
+
 **English** · [Español](https://github.com/CuevasTech/CuevasTech/blob/main/README.es.md)
 
 [![CuevasTech Banner](https://raw.githubusercontent.com/CuevasTech/CuevasTech/main/assets/CuevasTech-Banner.png)](https://github.com/CuevasTech)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E_++Apps+%E2%80%A2+AI+Agents+%E2%80%A2+Smart+Home+%E2%80%A2+DIY;%3E_++Is+it+repetitive%3F+Automate+it;%3E_++Doesn%27t+the+hardware+exist%3F+Build+it;%3E_++Is+it+a+dumb+device%3F+Give+it+an+AI)
+
+</div>
 
 ---
 
@@ -19,11 +23,6 @@ This is where I spend most of my time. I don't look for the easiest solution, I 
 | **📱 App Development**      | I build robust interfaces and logic. I love connecting apps to the real world        |
 | **🤖 AI & AI Agents**       | I don't just use LLMs; I build autonomous agents that "understand" and act on their environment |
 | **🏠 Smart Home**           | I take the smart home to the next level. Total integration with AI                   |
-
-## 🚀 Featured projects
-
-- **[Folio PDF](https://github.com/CuevasTech/folio)**: a free, open-source PDF editor for Windows. Fill in, sign, edit, organize, OCR and optional local AI. No ads, no accounts, nothing uploaded. [⬇ Download](https://github.com/CuevasTech/folio/releases/latest)
-- **[NeonFin](https://github.com/CuevasTech/NeonFin)**: a neon & glass theme for Jellyfin 12. Cinematic detail pages, a glass top bar that shrinks on scroll and calm hover effects. Pure CSS, one line to install.
 
 ## ⚡ My current toolbox
 

@@ -1,8 +1,12 @@
+<div align="center">
+  
 [English](https://github.com/CuevasTech/CuevasTech/blob/main/README.md) · **Español**
 
 [![CuevasTech Banner](https://raw.githubusercontent.com/CuevasTech/CuevasTech/main/assets/CuevasTech-Banner.png)](https://github.com/CuevasTech)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E_++Apps+%E2%80%A2+AI+Agents+%E2%80%A2+Smart+Home+%E2%80%A2+DIY;%3E_++%C2%BFEs+repetitivo%3F+Automat%C3%ADzalo;%3E_++%C2%BFNo+existe+el+hardware%3F+Fabr%C3%ADcalo;%3E_++%C2%BFEs+un+dispositivo+tonto%3F+Int%C3%A9grale+una+IA)
+
+</div>
 
 ---
 
@@ -19,11 +23,6 @@ Aquí es donde paso la mayor parte de mi tiempo. No busco la solución más fác
 | **📱 App Development**      | Creo interfaces y lógicas robustas. Me mola conectar las apps al mundo real          |
 | **🤖 AI & AI Agents**       | No solo uso LLMs; construyo agentes autónomos que "entienden" y actúan en su entorno |
 | **🏠 Domótica Inteligente** | Llevo la smart home al siguiente nivel. Integración total con IA                     |
-
-## 🚀 Proyectos destacados
-
-- **[Folio PDF](https://github.com/CuevasTech/folio)**: editor de PDF gratis y libre para Windows. Rellena, firma, edita, organiza, OCR e IA local opcional. Sin anuncios, sin cuentas, nada se sube a ningún sitio. [⬇ Descargar](https://github.com/CuevasTech/folio/releases/latest)
-- **[NeonFin](https://github.com/CuevasTech/NeonFin)**: un tema neón y cristal para Jellyfin 12. Páginas de detalle cinematográficas, una barra superior de cristal que se encoge al hacer scroll y efectos al pasar el ratón muy tranquilos. CSS puro, una línea para instalarlo.
 
 ## ⚡ Mi caja de herramientas actual
 
